@@ -14,6 +14,9 @@ a {
 .header-social-icon {
     display: none;
 }
+.map{
+    width: 365px;
+}
 }
 /*****Navbar******/
 nav {
@@ -82,9 +85,6 @@ nav .navbar-brand {
   .carousel-inner .carousel-caption h2 {
    font-size: 38px;
   } 
-    .map{
-    width: 365px;
-}
 
 }
 @media(max-width: 577px)
